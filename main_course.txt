@@ -1,2 +1,7 @@
 The main course of the meal will consist of:
-(delete this line and write in the main course)
+A taco bar, including beef, turkey, and Beyond meat options,
+shredded lettuce, diced tomato, black olives, and red peppers,
+along with guacamole, salsa, and mango salsa.
+Cheeses, both dairy and non-dairy options, are also available.
+
+For those who need a lot to eat, steamed brown and jasmine rice should be provided to make taco salads.
